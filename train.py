@@ -1,422 +1,290 @@
-Wav/03984.wav|いえーい、ガスバスバスギャース！
-Wav/03985.wav|押忍、あまりにも理不尽＆唐突な死、これぞ『Ｆａｔｅ』って感じでサイコーであります師しょー！
-Wav/03986.wav|押っ忍！三秒というインスタントさが更にサイコーであります師しょー！
-Wav/03987.wav|んー、キャスターが作った人工的な令呪を組み込まれていて、
-Wav/03988.wav|キャスターが作った“三か条”を破ったり破るヤツに出会ったら、骨人形みたいに一つの命令を実行するだけの人間になるの。
-Wav/03989.wav|あいつ、道具を作るの上手いから。シロウだって、あいつに捕まったら魔術補佐の限定礼装にされかねないわ。
-Wav/03990.wav|…………別に、それだけで悪いっていうのはどうかと思うけど。
-Wav/03991.wav|キャスターは確かに小物で臆病で狡猾だけど、根はまだ悪人になりきれてないし。
-Wav/03992.wav|え……？べ、別にそういうワケじゃないよ？
-Wav/03993.wav|わたしはただ、魔術で誰かを拘束しても、それ自体は悪いコトじゃないって言いたいだけだったり。
-Wav/03994.wav|ちきしょー、バレたかこんちくしょーめー！
-Wav/03995.wav|あうう……なぜかその竹刀には勝てませーん。
-Wav/03996.wav|……はーい、反省してまーす。
-Wav/03997.wav|もう悪いコトはいたしませーん。
-Wav/03998.wav|はいはい、今回は大人しくしてればいいんでしょ。
-Wav/03999.wav|……ま、いつも暴れっぱなしっていうのも芸がないしねー。リンルートではいっそシロウを助けてあげて、他のヒロインをくっちゃうのもいいかなー。
-Wav/04325.wav|素敵だ……！
-Wav/04326.wav|……やっぱり素敵だ……！
-Wav/00791.wav|トドメね。潰しなさい、バーサーカー
-Wav/00792.wav|いいよ、うるさいのは無視しなさい。
-Wav/00793.wav|どうせアーチャーとリンの攻撃じゃ、アナタの宝具を越えられないんだから
-Wav/01212.wav|ねえ、お話は終わり？
-Wav/01213.wav|こんばんはお兄ちゃん。こうして会うのは二度目だね
-Wav/01214.wav|相談は済んだ？なら、始めちゃっていい？
-Wav/01215.wav|はじめまして、リン。わたしはイリヤ。
-Wav/01216.wav|イリヤスフィール・フォン・アインツベルンって言えばわかるでしょ？
-Wav/01217.wav|じゃあ殺すね。やっちゃえ、バーサーカー
-Wav/01281.wav|はい、やってきましたタイガー道場！
-Wav/01282.wav|今回から第二部という事で、装いも新たに生まれかわった……
-Wav/01283.wav|……って、あれ？
-Wav/01284.wav|あいたたた……うう、ガセネタつかませてごめんなさいでした……。
-Wav/01285.wav|そうね。わたしはともかく、タイガはキャラ的にちょっと弱いもの。
-Wav/01286.wav|やっぱり、これからはわたしをメインにしてタイガはゲスト扱いにした方が
-Wav/01287.wav|はぁい、シロウが臆病風に吹かれたからでーす。
-Wav/01288.wav|あ、ほし人は不明なままっす。
-Wav/01289.wav|ふぅーん、そううまくいくかしら？
-Wav/01290.wav|アーチャーが何処の英雄だろうと、まだわたしを倒せるほどの勢力じゃないと思うけどなあ。
-Wav/01291.wav|そう？なら結果を見てみましょう。
-Wav/01292.wav|急造のコンビが、わたし相手にどこまで戦えるかどうかをね。
-Wav/01293.wav|わたし？……んー、厳密に言うと、わたしは魔術師じゃないわ。
-Wav/01294.wav|どっちかっていうとキャスターに近い存在で、生まれてから魔術を習ったんじゃなくて、生まれつき魔術を知ってるの。この違い、分かる？
-Wav/01295.wav|ふふふ。タイガったら、たまに可愛いコト言うのね。
-Wav/01296.wav|そういう核心つくようなコト言うとコロシちゃうぞ？
-Wav/01297.wav|……まったく。つまんない話聞くんだから。
-Wav/01298.wav|わたしが何者かなんて、そのうちイヤでも分かるのに。
-Wav/01299.wav|さ、シロウは続き続き。
-Wav/01300.wav|新しい戦いは始まったばかりよ。こんなところでつまづいてないで、早くセイバーのところに戻ってあげるコト！
-Wav/05657.wav|ああもう、うるさいったらうるさーい……！！！！
-Wav/05658.wav|お目覚め？じゃないっ！
-Wav/05659.wav|わたしはね、あまりのショックにフリーズしてたの、失神してたの、エクトプラズってたの……！
-Wav/05660.wav|どうしてって、何よ今回の導入は！
-Wav/05661.wav|なにあれ？どういうコト？ここってタイガー道場じゃないの？わたしぜんぜんわかんないっ！
-Wav/05662.wav|むっかー！
-Wav/05663.wav|その同情するような顔ムカツク！
-Wav/05664.wav|そもそもタイガ、魔法少女って年齢！？本編広しと言えど、魔法少女が似合うのはわたしと、
-Wav/05665.wav|え、えーっと、先輩ぐらいのもんなんだから！
-Wav/05666.wav|とにかくさっきの導入は以後禁止！魔法少女ネタは今回きりだからねっ！
-Wav/05667.wav|だ、
-Wav/05668.wav|だ、誰がそんな色物キャラやるかっーーー！
-Wav/05669.wav|とっととバルハラに行け酔いどれティーゲル！
-Wav/05893.wav|やだ戻って、バーサーカー……！
-Wav/05894.wav|なんで……？わたしの中に帰れって言ったのに、どうして
-Wav/05895.wav|ぁ
-Wav/05896.wav|やだやだよぅ、バーサーカー……！
-Wav/06336.wav|え？師しょー、時間割りだと、二部はあと一回稽古があるみたいだけど？
-Wav/06337.wav|お、押忍！
-Wav/06338.wav|よく分かんないけど、今回が事実上の二部最終回なワケですね！？
-Wav/06339.wav|…………………………フ。
-Wav/06340.wav|あら、それは誤解よ。
-Wav/06341.wav|ただ、第三部は今までみたいにタイガに付き合ってあげられないから、寂しい思いをさせるかなって。
-Wav/06342.wav|ええ、本編で出番が多くなって忙しくなるの。
-Wav/06343.wav|リンルートではこういう結果になったけど、三部こそはわたしの真骨頂だもの。
-Wav/06344.wav|その分、タイガはますます出番が減るみたいね。
-Wav/06345.wav|ご愁傷さま。これがヒロイン候補と、ヒロイン候補にさえなれなかった者との格の違いよ。
-Wav/06346.wav|ま、ヒロインになってもトモダチのままでいてあげるから安心なさい。そうね、わたしが本編を支配したアカツキには召使いぐらいには、
-Wav/06347.wav|なにするのよー！こっちは善意で言ってあげてるのにー！
-Wav/06348.wav|ふーんだ、こっちこそ願い下げよ！
-Wav/06349.wav|ばかタイガ、そっちから謝っても許さないからねっ……！
-Wav/07996.wav|はーい、みんな元気ー！？
-Wav/07997.wav|タイガがいなくなった隙に、『Ｆａｔｅ』ちょっといい話ー！
-Wav/07998.wav|みんな、凛ルートのグッドエンドの行き方、すっごく判り辛くて困ってるよね？
-Wav/07999.wav|ここはそんな貴方の為のヒントコーナーです。
-Wav/08000.wav|今回は特別に先輩をお呼びしました！
-Wav/08001.wav|先輩、ズバリどうやったらグッドエンドに行けるんでしょうか！？
-Wav/08002.wav|ズバリすぎっす先輩！
-Wav/08003.wav|これを全部押さえればいいんすね！
-Wav/08004.wav|押忍、ありがとうございましたー！
-Wav/08005.wav|そういう事らしいんで、余裕があったら三日目からやり直してみてねー！
-Wav/02560.wav|そんなワケないでしょうばかちーーん！
-Wav/02561.wav|ホントっぽいウソは禁止！Ｑ＆Ａコーナーで遭難者を出したらダメなんだからっ。
-Wav/02562.wav|あ、先輩！ちっす、今日も素敵っすね！
-Wav/02563.wav|うっす！このバッドエンドにくるルートは二つあるであります！
-Wav/02564.wav|一つは単純な選択ミス。安易に前に逃げたら撃ち殺されたってヤツですね。
-Wav/02565.wav|で、もう一つが少し厄介で、セイバールートからこっちのルートに入った場合かな。
-Wav/02566.wav|分かりやすく言うと、四日目のルートタイトルが『Fate』だったクセに、五日目が『UnlimitedBladeWorks』の人は四日目の朝からやり直し。
-Wav/02567.wav|えーと、もっと分かりやすくいうと
-Wav/02568.wav|ち、違うっす先輩。同盟結んでないからこのバッドになったんであって、シロウは裏切ったワケじゃないです。
-Wav/02569.wav|ああ、行っちゃった……。
-Wav/02570.wav|ともかく、今回のバッド回避方法は二つ！
-Wav/02571.wav|リンに襲われたら後ろに逃げるか、そもそも逃げる選択肢が出てこなかった人は四日目朝からやり直し！
-Wav/02572.wav|それと、まだ一回もエンディングを見てないのにこっちに来た人にスペシャル情報ー！
-Wav/02573.wav|えーと、一度目のルートではリンはどうやったって攻略できないの。
-Wav/02574.wav|一度はおとなしくセイバーのマスターとして、セイバーと戦い抜くコトだけを考えた方が賢明だよー。
-Wav/02582.wav|ワケわかんない。タイガ、今日はどうしたのよ。
-Wav/02583.wav|へえ。でも蛇はお酒よ？タイガ、お酒好きでしょ？
-Wav/02584.wav|べっつにー。タイガは勇敢だなって。
-Wav/02585.wav|さあ、それは第二十五話以降をお楽しみにってコトで。
-Wav/02586.wav|で、死しょー、いつもの稽古はどうするの？
-Wav/02587.wav|なにそれー。死しょー、前と言ってるコト違うー。令呪はバンバン使えって言ってたじゃない。
-Wav/02588.wav|……師しょー。わたし、そろそろこの芸風に我慢できなくなってきたかなー。
-Wav/02589.wav|レディの頭を叩くなんて、普通許されないと思うのー。
-Wav/02590.wav|え、なにそれ？嘆願書って、誰からよ。
-Wav/02591.wav|なぁーんだ。嘆願書ってシロウからなんだー。
-Wav/02592.wav|もっちろん。もう、お兄ちゃんったら今度あったらどうしてやろうかしらー
-Wav/11367.wav|セイバーは始末したわ。これ以上、サーヴァントをあっちに取られるワケにはいかないから
-Wav/11368.wav|ごめんねお兄ちゃん。もう少し遊んでいたかったけど、状況が変わっちゃった。恨むならわたしじゃなくて、不出来な聖杯を恨むのね
-Wav/11369.wav|でも安心して、すぐには殺してあげないから。
-Wav/11370.wav|お兄ちゃんはあいつ用の切り札だもの。体はここで壊しちゃうけど、心はわたしのパペット形に入れ替えてあげるわ。
-Wav/11371.wav|……くす。そうなったらもう自分で動けなくなるけど、死ぬよりはいいよねお兄ちゃん？
-Wav/11919.wav|いらっしゃーい！
-Wav/11920.wav|些細な選択ミスでデッドしたシロウを救う、いつもお馴染みタイガー道場でーす！
-Wav/11921.wav|今回は選択ミスによるデッドエンド！
-Wav/11922.wav|小難しい説明はしないから、直前の選択肢に戻って違う行動を
-Wav/11923.wav|でもどりっ！
-Wav/11924.wav|あう……違和感なく溶け込んだのにあっけなく見破られたぁ……。
-Wav/11925.wav|え……あはは、それはその、ちょっと予想外のパワーバランスになってきたっていうか……ほら、タイガ独りじゃ寂しいだろうから帰ってきたっていうか。
-Wav/11926.wav|あ、う……えーと……
-Wav/11927.wav|わーん、もうプライド大安売りー！
-Wav/11928.wav|お願いするっす、もう一度弟子入りさせてほしいっす師しょー！
-Wav/11929.wav|やったー！だからタイガってば大っきらいー！
-Wav/11930.wav|こうなったら力ずくだー！見てなさい、次に来る時は問答無用で征服してやるんだからー！
-Wav/12443.wav|えへへ、びっくりした？町を歩いてたらシロウがいたから、つい声かけちゃった
-Wav/12444.wav|あ。なによシロウ、無視しちゃって。話しかけてるのに俯いたままなんて、女の子に失礼だよ
-Wav/12445.wav|むっ。もう、シロウってば！人の話はちゃんと聞かなくちゃダメなんだからね！
-Wav/12446.wav|ええー？せっかく会えたのに、それじゃつまんない。
-Wav/12447.wav|あれからシロウここにきてくれなかったし。今日を逃したらまた来ないに決まってるもん
-Wav/12448.wav|なんで？シロウはもうマスターじゃないでしょ？だから今夜は見逃してあげるけど？
-Wav/12449.wav|ふふーんだ。わたしに知らないコトなんてないんだから。シロウはセイバーを失って、リンはライダーにやられかけたのよね。けどライダーのマスターが倒れたから、残りはあと二人だけでしょ？
-Wav/12450.wav|もう勝敗は見えたも同然だもの。ライダーのマスターは自滅するだろうし、アーチャーだって大した事ないわ。
-Wav/12451.wav|セイバーがいなくなった以上、わたしのバーサーカーに勝てるヤツなんていなくなったの。
-Wav/12452.wav|ね、だから遊ぼっ！シロウはもうマスターじゃないから、特別にわたしの城に招待してあげる！
-Wav/12453.wav|きゃっ……！？
-Wav/12454.wav|ごめんね、シロウ
-Wav/12455.wav|怒らないよ。だってシロウ泣きそうだよ？何があったかは知らないけど、わたしまできらっちゃったらかわいそうだもん。だからわたし、シロウが何したってシロウの味方をしてあげるの
-Wav/12456.wav|そうよ。好きな子のことを守るのは当たり前でしょ。
-Wav/12457.wav|そんなの、わたしだって知ってるんだから
-Wav/12517.wav|……そう。結局、シロウはキリツグと同じ方法をとるんだ。顔も知らない誰かの為に、一番大事な人を切り捨てるのね
-Wav/12518.wav|かわいそうなシロウ。
-Wav/12519.wav|そんな泣きそうな顔のまま、これからずっと、自分を騙して生きていくのね
-Wav/13201.wav|でしょ？シロウがそういう子だから、わたしもシロウの味方なの
-Wav/13202.wav|そうだね。そういう顔してるから許してあげる。また今度会おうね、シロウ
-Wav/13228.wav|タイガー道場は我々が占拠したー！
-Wav/13229.wav|タイガはおとなしく武装解除しろー！
-Wav/13230.wav|ティーガー！
-Wav/13231.wav|見たかタイガ、これが我が軍の秘密兵器よ！
-Wav/13232.wav|準備よーし、目標タイガー道場ー！
-Wav/13233.wav|砲手、撃てー
-Wav/13234.wav|……あれ？
-Wav/13235.wav|きゃーーーーー！？？？？
-Wav/13236.wav|ティーガーが、旧○国軍払い下げのティーガーが一撃でーーーー！？
-Wav/13237.wav|あ。……てへへ。師しょーをビックリさせようと思って、ちょっと無理したの。わたしってお茶目？
-Wav/13238.wav|～押忍、ありがとうございました～。
-Wav/13239.wav|え、本当ですか師しょー？
-Wav/13240.wav|やったー！レギュラーゲットーーー！
-Wav/13241.wav|けど、あと十二回って何気に多くね？シロウ、そんなにに殺されるの？
-Wav/13242.wav|へー。なんか性格でてるなー。
-Wav/13243.wav|ダメよシロウ。相手は怪物ばっかりなんだから、せめて盾になる怪物と手を組まないと。
-Wav/13244.wav|気は乗らないだろうけど、選択肢に戻ってリンにお願いしなくっちゃ。
-Wav/13245.wav|その通りっす師しょー！イヤな事はイヤと言える、
-Wav/13246.wav|決断のすごいシロウ！
-Wav/13247.wav|じゃ、まったねー！
-Wav/13271.wav|押忍、そんなコトないっすよ？
-Wav/13272.wav|いつも通りの、平和で楽しいタイガー道場っす！
-Wav/13273.wav|さて今回のデッドエンドだけど、おなじみの突然死でーす！
-Wav/13274.wav|一度目が合っちゃった以上、ライダーの魔眼から逃れるコトはできないわ。ここは相手を倒す事より、守りに徹した方が賢明ね。
-Wav/13275.wav|んー、けどシロウもいろんな死に方するよねー。
-Wav/13276.wav|石化なんてわたしたちの業界でも珍しいわよ？
-Wav/13277.wav|んでって、サクラが根に持つ性格だからでしょ？
-Wav/13278.wav|タイガ前に言ったじゃない。ライダーのマスターは性根が腐った蛇女だって。
-Wav/13279.wav|はい、以上タイガー道場でしたー！
-Wav/13280.wav|人を呪わば穴二つ、
-Wav/13281.wav|みんな、陰口には気をつけようねー！
-Wav/13290.wav|……………………ばか。
-Wav/13295.wav|押忍！軽い気持ちで証文に判を押したら地下帝国まっしぐらっす！
-Wav/13296.wav|?やめてよ、てれるじゃない。
-Wav/13297.wav|なんでか知らないけど、そんな熱い視線で見つめられたら照れちゃうわ。
-Wav/13298.wav|押っ忍！その他にも、あの問答は逆らった方が好感度があがる物があるとの噂があるっす！
-Wav/13299.wav|うう……それは言わない約束っす……。
-Wav/13300.wav|まったねー！
-Wav/10311.wav|なーんて、びっくりした？
-Wav/10312.wav|シロウったらスキだらけなんだもん。面白いから、ちょっとからかっちゃった
-Wav/10313.wav|あ、戻っちゃった。さすがに視線だけの接触じゃ弾かれちゃうか
-Wav/10314.wav|けどじぶん界だけで解呪できないんじゃまだまだなんだから。外部からの影響がないと自分に戻れないようじゃ、この先が思いやられるわ
-Wav/10315.wav|む。不意打ちじゃないよ。さっきからちゃんと隣りにいたもん。なのに最後まで気がつかないし、おまけにそのまま帰ろうとするし。今のはシロウの自業自得よ
-Wav/10316.wav|うん、隠れてた。けど、それにしたってシロウは油断しすぎよ。わたしの気配にも気付かないし、魔力をぶつけただけの呪縛に囚われちゃうし。マスターなんだから、もっと周囲に気を配りなさい
-Wav/10317.wav|うん、わかればよろしい。
-Wav/10318.wav|で、今日はどうしたの？シロウ、体の中からっぽだし、その割にはセイバーも連れてないし。休むんなら家で休んだ方が安全でしょ？
-Wav/10319.wav|でしょ？あんまり様子がヘンだから放っておけなかったんだ。わたしから話しかけていいのは昨日でおしまいだったからダメだったんだけど、今日は特別
-Wav/10320.wav|それで、どうしてこんなところで座ってたの？
-Wav/10321.wav|わたしがマスターとして来てたら、シロウは今ごろ死んじゃってるよ？
-Wav/10322.wav|え？
-Wav/10323.wav|なんで……？わたし、シロウを殺すんだって言ったのに、シロウはわたしに会いに来たの……？
-Wav/10324.wav|えっそ、そんなの言われても困るっ。わたし、どっちもいっぱいだもの。シロウと話せるのは楽しいけど、やっぱり許してなんてあげないんだから、どっちかを取るなんてできない
-Wav/10325.wav|あ……け、けど、わたし
-Wav/10326.wav|あ
-Wav/10327.wav|ええ、セラとリーゼリットと一緒。わたしにはお目付け役なんていらないけど、身の回りの世話をする人は必要でしょ？
-Wav/10328.wav|ん？気になる？わたしが何処に住んでるか
-Wav/10329.wav|うん。いいわ、シロウは特別。そんなに知りたいんなら教えてあげる
-Wav/10330.wav|いいから黙って。あんまり抵抗すると違うものに入っちゃうんだから。そうなったら元に戻すのタイヘンでしょ
-Wav/10331.wav|いい子ね。じゃあ目を閉じて。あと、あんまりきょろきょろ周りを見ちゃダメよ。いくら移すって言っても他人の視点なんだから、シロウがここにいるかぎり乗り物酔いをしかねないわ
-Wav/10332.wav|どう、見える？いま、シロウの視覚だけをわたしの森に繋げたんだけど
-Wav/10333.wav|道順は覚えた？それじゃ、次は城の壁に移すわね
-Wav/10334.wav|ごくろうさま。どう、ちょっとした変身魔術だったでしょ、今の
-Wav/10335.wav|意識の転移よ。シロウの視覚だけを他のモノに移したの
-Wav/10336.wav|眼球から脳に繋がる神経があるでしょ？それをね、眼球からじゃなくて『違うもの』から脳に繋げたの。
-Wav/10337.wav|さっきの間だけ、シロウの視界はエミヤシロウの眼球から得られる情報じゃなくて、わたしの森の木々から見た情報を観てたってコト
-Wav/10338.wav|あら、物分り悪そうで鋭いのね。
-Wav/10339.wav|ええ、今のはそういうこと。人間っていう機材はそのままにして、入力先だけを移し変える魔術。
-Wav/10340.wav|人間を木に変える、なんて事はおおごと事だけど、人間の意識だけを木に繋げる、ならまだ魔術の域でしょ？遠見とか憑依はこの魔術の応用ね
-Wav/10341.wav|ええ、わたしたちの特性は力の流動、転移だもの。
-Wav/10342.wav|例えば、遠坂の魔術師は魔力を宝石に移し変えて、かつ、いつまでも純度を保っていられる。その応用で、他人の意識を力技で転移する事もできるわ。
-Wav/10343.wav|封じ込めたいって思った敵がいた場合、そいつの意識の入力先を宝石の中とか、身動きできない人形の中に替えてしまえばそいつは無力化する
-Wav/10344.wav|でも“他人の意識にかける転移”は成功率が低すぎて、転移を得意とするわたしや遠坂の魔術師でさえ、攻撃になんて使わないかな
-Wav/10345.wav|さっきシロウにかけたのは特別。シロウは抵抗しなかったし、あの森はわたしのだもん。ホントはもっと繋げにくいものなんだよ
-Wav/10346.wav|それに、意識が転移先に移っている最中に“意識の本体”に刺激が与えられれば、意識は強制的に戻ってしまう。
-Wav/10347.wav|たとえ移された『意識』が『本体』の危機を察していなくても、肉体が危険を感じて“離れている”意識を呼び戻すの
-Wav/10348.wav|さっきのシロウだってそうだよ。
-Wav/10349.wav|シロウの意識は木を被ってる間は自分からは何もできなかったけど、シロウの体を揺すっただけで、体の方がシロウ魂を呼び戻した
-Wav/10350.wav|んー、ちょっと違うかな。夢からはちゃんと理性で目覚められるし。
-Wav/10351.wav|そんな訳だから、転移は攻撃には向いてない。自分にかける自己保身のための魔術なの
-Wav/10352.wav|『自分の意識』の転移先を『使い魔』や『身動きできる人形』にしてしまえば、その体を動かして、安全に魔道の探求を行えるでしょ
-Wav/10353.wav|ええ。意識を転移させる、なんて事をする魔術師は、ほんたいを絶対安全な場所に隠すものよ。
-Wav/10354.wav|この場合、注意すべきは『使い魔』の中でも『魂のある使い魔』への転移の場合ね
-Wav/10355.wav|ちゃんとした命令系統理性を持っているモノに意識を転移すると、主導権は完全にあっち側、“魂のある使い魔の意識”にいってしまうの
-Wav/10356.wav|だから人間とか動物に意識の転移をしても、わたしたちはその脳のはじっこで、彼が見ている映像を一緒に見ているだけになる。リモコンロボットじゃなく、カメラでしかないわ
-Wav/10357.wav|既に生物として生きている『魂のある使い魔』に『自分の意識』を移して支配するのは、転移ではなく転生の域の魔術だもの。
-Wav/10358.wav|それはそれで一つの大魔術だから、並大抵の魔術師には真似できないわ
-Wav/10359.wav|転移先を生物に拘るのなら、心魂のない使い魔を作って、その殻を操るっていう手もあるわ。
-Wav/10360.wav|ただ、現代の魔術師の作れる『魂のない使い魔』ってあんまり強くないの。中身がワタの人形を、遠くから魔力で操ってるだけだもの。
-Wav/10361.wav|そんなの、術者の“メッセンジャー”としてしか使い道がないわ
-Wav/10362.wav|それに、いくら『使い魔』や『身動きできる人形』に意識を移しても、本体が老いて死ねば転移させた自分の意識も消えてしまう。
-Wav/10363.wav|術者が不老不死になれるわけではないわ
-Wav/10364.wav|物質界において永劫不滅なのは魂だけよ。
-Wav/10365.wav|けど魂を単体でこの世に留めておく事は誰にも出来ない。魂は肉体がないとこの世に留まれなくて、肉体を得た時点で“にくたいの死”を宿命付けられてしまう。
-Wav/10366.wav|ま、アインツベルンや遠坂には、今みたいな魔術が限界だったってこと
-Wav/10367.wav|あ。……わたし、そろそろいかないと。シロウも家に帰るの？
-Wav/10368.wav|……うん。ホントは、こんなコト言っちゃダメなんだけど
-Wav/10369.wav|シロウは、明日も会いに来てくれる？
-Wav/10370.wav|うん！それじゃ約束、明日はぜったいわたしから話しかけるからね！
-Wav/09614.wav|よかった。生きてたんだね、お兄ちゃん
-Wav/09615.wav|え？
-Wav/09616.wav|……………………
-Wav/09617.wav|………………名前、教えて
-Wav/09618.wav|お兄ちゃんの名前、教えて。わたしだけ知らないの、不公平
-Wav/09619.wav|エミヤシロ？不思議な発音するんだね、お兄ちゃんは
-Wav/09620.wav|……シロウ、シロウ、かあうん、気に入ったわ。
-Wav/09621.wav|単純だけど響きがキレイだし、シロウにあってるもの。
-Wav/09622.wav|これならさっきのも許してあげる！
-Wav/09623.wav|ううん、さっきみたいにイリヤでいいよシロウ！わたしもシロウって言うんだから、これでおあいこだよね！
-Wav/09624.wav|うん、なにシロウ！
-Wav/09625.wav|なに？シロウはわたしに殺されたいの？
-Wav/09626.wav|……ふぅん。よくわかんないけど、シロウがそういうんならわたしはいいよ。予定がちょっと早まるだけだもん。セイバーといっしょにここで死ぬ？
-Wav/09627.wav|でしょ？マスターはね、明るいうちは戦っちゃダメなんだよ。シロウもセイバーを連れていないし、わたしだってバーサーカーを連れてないでしょ？
-Wav/09628.wav|偶然じゃないよ。セラの目を盗んで、わざわざシロウに会いに来てあげたんだから。コウエイに思ってよね
-Wav/09629.wav|うん。わたしはシロウとお話をしにきたの。今までずっと待ってたんだから、それぐらいいいでしょう？
-Wav/09630.wav|それともシロウはわたしと話すのはイヤ？……うん、シロウがイヤなら帰るよ。ほんとはイヤだけど、したくないコトさせたら嫌われちゃうから
-Wav/09631.wav|やった、じゃああっちに行こっ！さっきね、ちっちゃな公園見つけたんだ！
-Wav/09632.wav|ほら、早く早く！急がないとおいていっちゃうからね、シロウ！
-Wav/09633.wav|なんで？べつにわたし、シロウに訊きたいコトなんてないよ？
-Wav/09634.wav|え、そ、そうなの？ヨウがないとお話ってできないの……？
-Wav/09635.wav|う……うん、それはそうだけど……じゃあ何を訊けばいいのかな。シロウ、なに訊いても怒らない？
-Wav/09636.wav|そっか。じゃあシロウ、わたしのこと好き？
-Wav/09637.wav|あ、嘘つきだっ。シロウ、怒らないって言ったのに怒った！
-Wav/09638.wav|なによ、あれは違うもん！シロウがよわっちいクセに飛び出してくるからじゃないっ！わ、わたしは悪くなんてないんだから！
-Wav/09639.wav|っ…………なるもん。なによ、シロウのバカ。わたしが止めてあげなくちゃ死んでたクセに、口だけは達者なんだから
-Wav/10861.wav|、ら！
-Wav/10862.wav|こらーーーーー！
-Wav/10863.wav|なにボウっとしてるのよシロウーーーーっ！！！！！
-Wav/10864.wav|なによ、いきなりじゃないもん！さっきからずーっと呼んでるのに、シロウが気付かなかっただけじゃないっ
-Wav/10865.wav|そうだよ。シロウ、難しい顔して歩いてるんだもん。
-Wav/10866.wav|邪魔しないように後ろから呼びかけたのに、無視してドンドン進んでいっちゃうんだから
-Wav/10867.wav|それに公園にだって来なかったわ。わたし、ずっと待ってたのに
-Wav/10868.wav|ふーんだ。そう簡単に許してあげないんだから。わたしホントに怒ってるんだからね
-Wav/10875.wav|なによ。カンタンな言葉じゃきかないわよ
-Wav/10876.wav|えっう、うちってシロウの家！？
-Wav/10877.wav|ん……たしかにちょっといいかもしれない、けど……シロウの家にお邪魔していいのかな、わたし
-Wav/10878.wav|…………うん。そうだね、そう言った
-Wav/10879.wav|わたし、シロウの家にいっていいのかな。わたしはシロウとキリツグを殺しに来たのよ。そのわたしが、シロウの家にあがっていいの？
-Wav/10880.wav|…………
-Wav/10881.wav|うん！ありがとう、お兄ちゃん！
-Wav/10882.wav|うん、いってらっしゃいシロウ！がんばってねー！
-Wav/10883.wav|おじゃましまーす。って、ここがシロウのお家なんだ
-Wav/10884.wav|はーい。あ、板張りの廊下だね。聞いてたとおりニッポンの建物だ
-Wav/10885.wav|ん、ありがとシロウ。いただきます
-Wav/10886.wav|ぅ……
-Wav/10887.wav|えっう、ううん、そんなコトないよ。えっと、けっこうなお手前でした
-Wav/10888.wav|いいの、ただ見たいだけなんだから。魔術的な価値がないのは入った時に判ったし、シロウは案内してくれるだけでいいよ
-Wav/10889.wav|ふーん、思ったより狭いんだね。回廊のくせにかたっぽはガラスだし、これじゃ襲われた時に困るよ？
-Wav/10890.wav|えっ、ここがシロウの部屋！？うそよ、こんなトコに人なんて住めないんだからっ
-Wav/10891.wav|ここが庭？ニッポンの魔術師はタイヘンね。こんなネコの額ぐらいのガーデンじゃ何も育てられないじゃない
-Wav/10892.wav|知ってる、ここドージョーって言うんでしょ？
-Wav/10893.wav|お爺さまが言ってたもの、連中は裸足で斬りあう野蛮人だって
-Wav/10894.wav|いやっ！物置の中なんて見たくないっ。そーゆーところは使用人に任せておけばいいんだから！
-Wav/10895.wav|ね、次は！？まだあっちの方行ってないよ、早く行こシロウ！
-Wav/10896.wav|そっか。これで全部なんだ
-Wav/10897.wav|うん、ちょっと疲れちゃった。だって誰もいないんだもん
-Wav/10898.wav|わたし、フクシュウに来たのに。その相手がもういないのって、悲しいね
-Wav/10899.wav|あれ？おかしいな、わたし泣いてるみたい。恐いことも悲しいこともなかったのに、ヘンだよね
-Wav/10900.wav|行こ、シロウ。そろそろ帰らないと日が暮れちゃう。
-Wav/10901.wav|夜になる前に別れないと戦いになっちゃうよ、わたしたち
-Wav/10902.wav|うん。シロウ、ちゃんとレディの扱い方わかってるじゃない
-Wav/10946.wav|なによ、急に黙り込んで。そんな顔したって誤魔化されないわ。シロウが謝らないんなら、わたしだって謝らないんだから。シロウがわたしを嫌いだって言うなら、わたしだって今すぐ
-Wav/10947.wav|シロウを人形に……って、サーヴァント！？
-Wav/10948.wav|………………
-Wav/10949.wav|ううん、そんなのウソ！シロウは公園に来なかったもの。口でした約束なんてすぐ終わっちゃうんだから、シロウの言葉なんて信用しないわ
-Wav/10950.wav|し、信用って……けど、わたしシロウに対する令呪なんて持ってない、し……
-Wav/10951.wav|……ほんとに、何でも聞いてくれるの？
-Wav/10952.wav|…………わかった。それじゃあ、……に、連れていって
-Wav/10953.wav|え、遠慮なんてしてないもん！シロウのウソつき、なんだって聞いてくれるって言ったじゃない！
-Wav/10954.wav|……そんなコト、じゃないよ。わたし、ずっとそういうのに憧れてたわ。だからそれが、一番シロウにしてほしいコトなんだもの
-Wav/10955.wav|買い物に連れて行って
-Wav/10956.wav|シロウ、こっちこっちー！ほら、コーヒー冷めちゃうよー！
-Wav/10957.wav|はい、とうちゃーく！わたしとシロウは最果ての駅につきました。
-Wav/10958.wav|はい、そんなワケでシロウは休憩です。今までお疲れさまでした
-Wav/10959.wav|うん。はい、シロウのジュース。シロウはコーヒーで、わたしはお汁粉なんだよね
-Wav/10960.wav|そうね。わたしも見るのは初めて。すっごく甘いからわたしには無理だよって、昔教えてもらったの
-Wav/10961.wav|令呪はここでおしまいにするね。ちょっとの間だったけど、ありがとうシロウ
-Wav/10962.wav|いいの。だってここが終点だもの。楽しかったけど買い物はここで終わり。もうじき日が沈むから、そうしたらもとの関係に戻りましょう。
-Wav/10963.wav|わたしはシロウを殺しにきたマスターで、シロウは自分のためにわたしと戦うマスターなの。そんなの、出会う前からちゃんと分かっていたんだから
-Wav/10964.wav|ええ、わたしとシロウは敵同士よ。いつか夜に出会ったら、あの時の続きをするしかないもの。
-Wav/10965.wav|だからぁ、わたしに殺されたくないなら、先にわたしを殺さなきゃダメだよシロウ
-Wav/10966.wav|うわあ！シロウ、雪だよ雪！
-Wav/10967.wav|あは、この町の雪はあったかいね。わたし、普通の雪って初めて見たわ
-Wav/10968.wav|ええ。冷たいのは嫌いだけど雪は好きよ。優しくてお母さまに似ているもの。この髪もね、白くて女の子らしいって誉めてくれたの
-Wav/10969.wav|キレイな雪。キリツグが住んでた土地にも、ちゃんと雪は降ってたのね
-Wav/10970.wav|じゃあねシロウ。また一人で出歩いてるのを見つけたら、その時も遊んであげる！
-Wav/10990.wav|……ふうん、そう。随分と簡単な言葉で終わらせるんだ。キリツグとは違うと思ってたのに、シロウも結局おんなじなんだ
-Wav/10991.wav|いいわ、その方がわたしも愉しいし。貴方は、予定通りわたしのオモチャにしてあげる
-Wav/10992.wav|それじゃまたね、お兄ちゃん。今日は見逃してあげるけど、次に会う時は気をつけないとダメだよ
-Wav/14908.wav|もう。いいかげん言ってあげればシロウ。そんなの、アーチャーの腕を移植された時から知ってるって
-Wav/14909.wav|どうしても何も、訊かれなかったから言わなかっただけよ。リンはシロウに投影をさせたがっているんだから、伝えるのはリンの役目でしょう。わたしが口出しする事じゃないわ
-Wav/14910.wav|それはリンとシロウが決める事でしょう。
-Wav/14911.wav|確かに宝石剣を複製できればリンの勝ちよ。だからこそわたしも手を貸してあげた。けど、それはわたしの義務だから手を貸しただけ。決して貴女の方針に賛同したからじゃないわ
-Wav/14912.wav|……まあ、アーチャーの腕で投影すれば材料や元になる設計図も要らないんだろうけど、そういう訳にもいかないでしょ？
-Wav/14913.wav|アーチャーの腕に頼らないで“戦う武器”を用意するっていったら、もうこの方法しかないのよ
-Wav/15001.wav|ちょっと違うよ。わたしが守るのはあくまでシロウの精神だけで、アーチャーからの逆流を我慢するのはシロウの役目。
-Wav/15002.wav|シロウはアーチャーの経験を引き出さなくちゃいけないんだから、防ぐんじゃなくて耐えなくちゃいけないでしょ
-Wav/15003.wav|さあ。何か忘れ物でもしたのよ、きっと。
-Wav/15004.wav|そんな事より、シロウにはやる事があるでしょう。
-Wav/15005.wav|拘束を緩めるなんて馬鹿な真似は反対だけど、シロウが約束したのなら手伝ってあげる。さ、リンが戻ってくるまでに済ませましょう
-Wav/15006.wav|いいから目を瞑って、シロウが一番得意な瞑想をして。
-Wav/15007.wav|魔術回路が開いたらこっちでシロウの意識をプロテクトして、聖骸布の拘束を緩めるわ。
-Wav/15008.wav|タイミングはこっちで計るから、シロウは流れてくる魔力に耐えてるだけでいい。けど、くれぐれも死ぬ気で耐えて。左腕からの反動で、シロウは間違いなく飲み込まれるから
-Wav/15009.wav|余計な忠告をするねシロウ。
-Wav/15010.wav|リンが知ってるのは、英霊の腕を移植された人間の痛みだけよ。だからリンはこれがどういう事になるか判ってない。シロウがどうなっちゃうかも解ってないの。
-Wav/15011.wav|けどそれも仕方ないわ。
-Wav/15012.wav|だってシロウとアーチャーの関係を知っているのは、この世でわたしだけなんだから
-Wav/15033.wav|なにしてるのシロウ？もう朝ゴハン終わっちゃったよ？
-Wav/15034.wav|シロウ、人の話聞いてる？わたし、こんなところで何をしてるのかって聞いてるんだけど？
-Wav/15035.wav|シロウ。体の調子、良くないの？
-Wav/15036.wav|そっか。うん、それじゃ居間に行こっ。シロウの朝ゴハン、わたしが用意してあげるから
-Wav/15037.wav|シロウー？朝ゴハンできたよー？
-Wav/15063.wav|はいシロウ、朝ゴハン！
-Wav/15127.wav|それより………………お昼は…………リンとサクラの…………サクラの方が…………
-Wav/15128.wav|リンのは辛いんじゃなくて痺れるのよ。
-Wav/15129.wav|もうお昼はサクラに任せるって決まったんだから、いいかげん諦めなさいよね。シロウだってサクラのシチューがいいって言ったんだから
-Wav/15141.wav|あれ、お昼はシチューじゃないの？シロウ、さっきそう言ってたけど
-Wav/15142.wav|あは、いっぱい買ったねシロウ！
-Wav/15143.wav|ううん、重くないから大丈夫。
-Wav/15144.wav|それよりもういっこ持とっか？シロウ、いっぱい袋下げててブドウみたいだよ
-Wav/15145.wav|うん。ほんとは風船もったピエロみたいだけど、ブドウの方がカワイイでしょ？
-Wav/15154.wav|ん？なにシロウ？
-Wav/15155.wav|……シロウ？
-Wav/15156.wav|それはキリツグの息子として？
-Wav/15157.wav|本気？シロウがキリツグの代わりをするの？
-Wav/15158.wav|それは無理だよ。わたしは長生きできないし、シロウも長生きなんてできない。だから一緒に暮らすなんて出来ないわ
-Wav/15159.wav|そんな事もう判ってるでしょシロウ？
-Wav/15160.wav|……ええ、どっちかがどっちかを犠牲にすれば、少しは生きられるかもしれない。けど二人いっしょは無理だと思う。この戦いが終わった時、わたしが生きてるってコトは、シロウはもういないってコトだもの
-Wav/15161.wav|ほら、だからできないの。シロウがいないエミヤの家には、わたしの居場所はないんだから
-Wav/15162.wav|……えへ。でもちょっと残念かな。いまの言葉、もうちょっと早く言ってくれたらよかったのに。
-Wav/15163.wav|そうしたら……うん、そうしたらほんの少しだけ、運命は変わっていたかもしれないから
-Wav/15164.wav|……そうね。けどそれが問題なの。
-Wav/15165.wav|これはリンには黙っていてねシロウ。
-Wav/15166.wav|宝石剣の投影。遠坂の遺産を複製する事は、リンの方法じゃ出来ないの
-Wav/15167.wav|だってシロウの投影は投影魔術じゃないんだもの。
-Wav/15168.wav|普通の投影魔術なら、ある程度オリジナルに似せた物に“投影”を重ねて“補強”する事はできる。
-Wav/15169.wav|けどシロウの投影は違うわ。シロウは一から十まで全部を自分のイメージで作らないとカタチにできない。
-Wav/15170.wav|だって貴方の魔術は投影じゃなくて、自分の心を具現化するものなんだから
-Wav/15171.wav|……だから無理なの。リンが必要としているモノを作るには、シロウはアーチャーの腕を使うしかない。けどそれがどういう意味なのか、シロウはもう判っている。
-Wav/15172.wav|……さっきみたいな一時的な記憶の欠損なんかじゃすまされない。一度でも使えば、シロウはもうシロウでいられなくなる
-Wav/15173.wav|シロウは自分のこと、桜のこと、わたしのことでいっぱいいっぱいで、ちょっと混乱してるんだよ。
-Wav/15174.wav|だから今の誘いは忘れてあげる。
-Wav/15175.wav|シロウだって判ってるでしょ？ぜんぶを選ぶことはできない、助けられるのは一人だけなんだって
-Wav/15195.wav|わたしも遠慮なくいただくわ。シロウ、そっちのフォークちょうだい
-Wav/15292.wav|お帰りなさい。町の様子はどうだった、リン
-Wav/15293.wav|何もなかったわ。ちゃんとベッドで眠ってるし、起きた様子もないみたいね。ライダーを使役してない分、魔力に余裕があるから調子はいいんだと思うわ
-Wav/15294.wav|わたしも休むわ。明日は製鉄でしょ、よく睡眠をとっておかないと失敗しかねないから
-Wav/18302.wav|サ～～イド、Ａーーーーー！
-Wav/18303.wav|押っ忍！わたしたちの戦いはまだ始まったばかりだぜー！
-Wav/18304.wav|そうだよー。シロウじゃどうあってもセイバーには勝てないんだから、ここはライダーを信じて自分の仕事に徹するコト！
-Wav/18305.wav|うう、そうなんすよ師しょー。このルートこそわたしの出番かと思ったら、ライバルがサクラでしょ？
-Wav/18306.wav|もうぜんっぜん勝負にならなくて、こうやって道場に出戻りしたのでした、よよよ。
-Wav/18307.wav|ほーんと、みんな猫被ってて困っちゃう。
-Wav/18308.wav|セイバーもブラックになって容赦ないし、リンもいざとなったら冷酷になるし。
-Wav/18309.wav|シロウもかわいそう。ヒロインの中で裏表ないの、わたしだけだもの。
-Wav/18310.wav|トゥルーとノーマルね。
-Wav/18311.wav|ま、ノーマルには簡単にいけると思うわ。
-Wav/18312.wav|けどトゥルーへの条件は、今までの成果が問われるっていうかー。
-Wav/18313.wav|ぶっちゃけ、わたしの好感度が４以下だったり、投影を一回でも多く使ってるとトゥルーには行けないのでしたー！
-Wav/18314.wav|いたたた……なによ、最後なんだからこれぐらいいいじゃない！
-Wav/18315.wav|なによ、タイガだってハッキリ言ってるー！
-Wav/18316.wav|そーなんだー。ネタバレとよく違いが分からないけど、とにかく師しょー横暴だー。
-Wav/18344.wav|サ～～イド、Ｂーーーーー！
-Wav/18345.wav|お待たせー！あの子もその子もどの子も欲しい！みんな大好き、『Ｆａｔｅ』唯一のハーレムエンドだよー！
-Wav/18346.wav|……うう……やっぱり無理あるっすか、師しょー。
-Wav/18347.wav|あ、先輩。久しぶりっす。
-Wav/18348.wav|押忍、立派です師しょー。
-Wav/18349.wav|……けどホントにセイバーを救うエンディングはないんですか？
-Wav/18350.wav|うっわー、そんなにあったんだ。
-Wav/18351.wav|けどタイガ、このスタンプ全部集めるとどうなるの？
-Wav/18352.wav|うん、今まで本当にありがとー！楽しかったよー！
-Wav/18353.wav|それじゃあばいばーい！縁があったら、フルコンプリート後にまた会おうねーーー！
+import os
+import json
+import argparse
+import itertools
+import math
+import torch
+from torch import nn, optim
+from torch.nn import functional as F
+from torch.utils.data import DataLoader
+from torch.utils.tensorboard import SummaryWriter
+import torch.multiprocessing as mp
+import torch.distributed as dist
+from torch.nn.parallel import DistributedDataParallel as DDP
+from torch.cuda.amp import autocast, GradScaler
+
+import commons
+import utils
+from data_utils import (
+  TextAudioLoader,
+  TextAudioCollate,
+  DistributedBucketSampler
+)
+from models import (
+  SynthesizerTrn,
+  MultiPeriodDiscriminator,
+)
+from losses import (
+  generator_loss,
+  discriminator_loss,
+  feature_loss,
+  kl_loss
+)
+from mel_processing import mel_spectrogram_torch, spec_to_mel_torch
+from text.symbols import symbols
+
+
+torch.backends.cudnn.benchmark = True
+global_step = 0
+
+
+def main():
+  """Assume Single Node Multi GPUs Training Only"""
+  assert torch.cuda.is_available(), "CPU training is not allowed."
+
+  n_gpus = torch.cuda.device_count()
+  os.environ['MASTER_ADDR'] = 'localhost'
+  os.environ['MASTER_PORT'] = '80000'
+
+  hps = utils.get_hparams()
+  mp.spawn(run, nprocs=n_gpus, args=(n_gpus, hps,))
+
+
+def run(rank, n_gpus, hps):
+  global global_step
+  if rank == 0:
+    logger = utils.get_logger(hps.model_dir)
+    logger.info(hps)
+    utils.check_git_hash(hps.model_dir)
+    writer = SummaryWriter(log_dir=hps.model_dir)
+    writer_eval = SummaryWriter(log_dir=os.path.join(hps.model_dir, "eval"))
+
+  dist.init_process_group(backend='nccl', init_method='env://', world_size=n_gpus, rank=rank)
+  torch.manual_seed(hps.train.seed)
+  torch.cuda.set_device(rank)
+
+  train_dataset = TextAudioLoader(hps.data.training_files, hps.data)
+  train_sampler = DistributedBucketSampler(
+      train_dataset,
+      hps.train.batch_size,
+      [32,300,400,500,600,700,800,900,1000],
+      num_replicas=n_gpus,
+      rank=rank,
+      shuffle=True)
+  collate_fn = TextAudioCollate()
+  train_loader = DataLoader(train_dataset, num_workers=8, shuffle=False, pin_memory=True,
+      collate_fn=collate_fn, batch_sampler=train_sampler)
+  if rank == 0:
+    eval_dataset = TextAudioLoader(hps.data.validation_files, hps.data)
+    eval_loader = DataLoader(eval_dataset, num_workers=8, shuffle=False,
+        batch_size=hps.train.batch_size, pin_memory=True,
+        drop_last=False, collate_fn=collate_fn)
+
+  net_g = SynthesizerTrn(
+      len(symbols),
+      hps.data.filter_length // 2 + 1,
+      hps.train.segment_size // hps.data.hop_length,
+      **hps.model).cuda(rank)
+  net_d = MultiPeriodDiscriminator(hps.model.use_spectral_norm).cuda(rank)
+  optim_g = torch.optim.AdamW(
+      net_g.parameters(), 
+      hps.train.learning_rate, 
+      betas=hps.train.betas, 
+      eps=hps.train.eps)
+  optim_d = torch.optim.AdamW(
+      net_d.parameters(),
+      hps.train.learning_rate, 
+      betas=hps.train.betas, 
+      eps=hps.train.eps)
+  net_g = DDP(net_g, device_ids=[rank])
+  net_d = DDP(net_d, device_ids=[rank])
+
+  try:
+    _, _, _, epoch_str = utils.load_checkpoint(utils.latest_checkpoint_path(hps.model_dir, "G_*.pth"), net_g, optim_g)
+    _, _, _, epoch_str = utils.load_checkpoint(utils.latest_checkpoint_path(hps.model_dir, "D_*.pth"), net_d, optim_d)
+    global_step = (epoch_str - 1) * len(train_loader)
+  except:
+    epoch_str = 1
+    global_step = 0
+
+  scheduler_g = torch.optim.lr_scheduler.ExponentialLR(optim_g, gamma=hps.train.lr_decay, last_epoch=epoch_str-2)
+  scheduler_d = torch.optim.lr_scheduler.ExponentialLR(optim_d, gamma=hps.train.lr_decay, last_epoch=epoch_str-2)
+
+  scaler = GradScaler(enabled=hps.train.fp16_run)
+
+  for epoch in range(epoch_str, hps.train.epochs + 1):
+    if rank==0:
+      train_and_evaluate(rank, epoch, hps, [net_g, net_d], [optim_g, optim_d], [scheduler_g, scheduler_d], scaler, [train_loader, eval_loader], logger, [writer, writer_eval])
+    else:
+      train_and_evaluate(rank, epoch, hps, [net_g, net_d], [optim_g, optim_d], [scheduler_g, scheduler_d], scaler, [train_loader, None], None, None)
+    scheduler_g.step()
+    scheduler_d.step()
+
+
+def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loaders, logger, writers):
+  net_g, net_d = nets
+  optim_g, optim_d = optims
+  scheduler_g, scheduler_d = schedulers
+  train_loader, eval_loader = loaders
+  if writers is not None:
+    writer, writer_eval = writers
+
+  train_loader.batch_sampler.set_epoch(epoch)
+  global global_step
+
+  net_g.train()
+  net_d.train()
+  for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths) in enumerate(train_loader):
+    x, x_lengths = x.cuda(rank, non_blocking=True), x_lengths.cuda(rank, non_blocking=True)
+    spec, spec_lengths = spec.cuda(rank, non_blocking=True), spec_lengths.cuda(rank, non_blocking=True)
+    y, y_lengths = y.cuda(rank, non_blocking=True), y_lengths.cuda(rank, non_blocking=True)
+
+    with autocast(enabled=hps.train.fp16_run):
+      y_hat, l_length, attn, ids_slice, x_mask, z_mask,\
+      (z, z_p, m_p, logs_p, m_q, logs_q) = net_g(x, x_lengths, spec, spec_lengths)
+
+      mel = spec_to_mel_torch(
+          spec, 
+          hps.data.filter_length, 
+          hps.data.n_mel_channels, 
+          hps.data.sampling_rate,
+          hps.data.mel_fmin, 
+          hps.data.mel_fmax)
+      y_mel = commons.slice_segments(mel, ids_slice, hps.train.segment_size // hps.data.hop_length)
+      y_hat_mel = mel_spectrogram_torch(
+          y_hat.squeeze(1), 
+          hps.data.filter_length, 
+          hps.data.n_mel_channels, 
+          hps.data.sampling_rate, 
+          hps.data.hop_length, 
+          hps.data.win_length, 
+          hps.data.mel_fmin, 
+          hps.data.mel_fmax
+      )
+
+      y = commons.slice_segments(y, ids_slice * hps.data.hop_length, hps.train.segment_size) # slice 
+
+      # Discriminator
+      y_d_hat_r, y_d_hat_g, _, _ = net_d(y, y_hat.detach())
+      with autocast(enabled=False):
+        loss_disc, losses_disc_r, losses_disc_g = discriminator_loss(y_d_hat_r, y_d_hat_g)
+        loss_disc_all = loss_disc
+    optim_d.zero_grad()
+    scaler.scale(loss_disc_all).backward()
+    scaler.unscale_(optim_d)
+    grad_norm_d = commons.clip_grad_value_(net_d.parameters(), None)
+    scaler.step(optim_d)
+
+    with autocast(enabled=hps.train.fp16_run):
+      # Generator
+      y_d_hat_r, y_d_hat_g, fmap_r, fmap_g = net_d(y, y_hat)
+      with autocast(enabled=False):
+        loss_dur = torch.sum(l_length.float())
+        loss_mel = F.l1_loss(y_mel, y_hat_mel) * hps.train.c_mel
+        loss_kl = kl_loss(z_p, logs_q, m_p, logs_p, z_mask) * hps.train.c_kl
+
+        loss_fm = feature_loss(fmap_r, fmap_g)
+        loss_gen, losses_gen = generator_loss(y_d_hat_g)
+        loss_gen_all = loss_gen + loss_fm + loss_mel + loss_dur + loss_kl
+    optim_g.zero_grad()
+    scaler.scale(loss_gen_all).backward()
+    scaler.unscale_(optim_g)
+    grad_norm_g = commons.clip_grad_value_(net_g.parameters(), None)
+    scaler.step(optim_g)
+    scaler.update()
+
+    if rank==0:
+      if global_step % hps.train.log_interval == 0:
+        lr = optim_g.param_groups[0]['lr']
+        losses = [loss_disc, loss_gen, loss_fm, loss_mel, loss_dur, loss_kl]
+        logger.info('Train Epoch: {} [{:.0f}%]'.format(
+          epoch,
+          100. * batch_idx / len(train_loader)))
+        logger.info([x.item() for x in losses] + [global_step, lr])
+        
+        scalar_dict = {"loss/g/total": loss_gen_all, "loss/d/total": loss_disc_all, "learning_rate": lr, "grad_norm_d": grad_norm_d, "grad_norm_g": grad_norm_g}
+        scalar_dict.update({"loss/g/fm": loss_fm, "loss/g/mel": loss_mel, "loss/g/dur": loss_dur, "loss/g/kl": loss_kl})
+
+        scalar_dict.update({"loss/g/{}".format(i): v for i, v in enumerate(losses_gen)})
+        scalar_dict.update({"loss/d_r/{}".format(i): v for i, v in enumerate(losses_disc_r)})
+        scalar_dict.update({"loss/d_g/{}".format(i): v for i, v in enumerate(losses_disc_g)})
+        image_dict = { 
+            "slice/mel_org": utils.plot_spectrogram_to_numpy(y_mel[0].data.cpu().numpy()),
+            "slice/mel_gen": utils.plot_spectrogram_to_numpy(y_hat_mel[0].data.cpu().numpy()), 
+            "all/mel": utils.plot_spectrogram_to_numpy(mel[0].data.cpu().numpy()),
+            "all/attn": utils.plot_alignment_to_numpy(attn[0,0].data.cpu().numpy())
+        }
+        utils.summarize(
+          writer=writer,
+          global_step=global_step, 
+          images=image_dict,
+          scalars=scalar_dict)
+
+      if global_step % hps.train.eval_interval == 0:
+        evaluate(hps, net_g, eval_loader, writer_eval)
+        utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "G_{}.pth".format(global_step)))
+        utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "D_{}.pth".format(global_step)))
+    global_step += 1
+  
+  if rank == 0:
+    logger.info('====> Epoch: {}'.format(epoch))
+
+ 
+def evaluate(hps, generator, eval_loader, writer_eval):
+    generator.eval()
+    with torch.no_grad():
+      for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths) in enumerate(eval_loader):
+        x, x_lengths = x.cuda(0), x_lengths.cuda(0)
+        spec, spec_lengths = spec.cuda(0), spec_lengths.cuda(0)
+        y, y_lengths = y.cuda(0), y_lengths.cuda(0)
+
+        # remove else
+        x = x[:1]
+        x_lengths = x_lengths[:1]
+        spec = spec[:1]
+        spec_lengths = spec_lengths[:1]
+        y = y[:1]
+        y_lengths = y_lengths[:1]
+        break
+      y_hat, attn, mask, *_ = generator.module.infer(x, x_lengths, max_len=1000)
+      y_hat_lengths = mask.sum([1,2]).long() * hps.data.hop_length
+
+      mel = spec_to_mel_torch(
+        spec, 
+        hps.data.filter_length, 
+        hps.data.n_mel_channels, 
+        hps.data.sampling_rate,
+        hps.data.mel_fmin, 
+        hps.data.mel_fmax)
+      y_hat_mel = mel_spectrogram_torch(
+        y_hat.squeeze(1).float(),
+        hps.data.filter_length,
+        hps.data.n_mel_channels,
+        hps.data.sampling_rate,
+        hps.data.hop_length,
+        hps.data.win_length,
+        hps.data.mel_fmin,
+        hps.data.mel_fmax
+      )
+    image_dict = {
+      "gen/mel": utils.plot_spectrogram_to_numpy(y_hat_mel[0].cpu().numpy())
+    }
+    audio_dict = {
+      "gen/audio": y_hat[0,:,:y_hat_lengths[0]]
+    }
+    if global_step == 0:
+      image_dict.update({"gt/mel": utils.plot_spectrogram_to_numpy(mel[0].cpu().numpy())})
+      audio_dict.update({"gt/audio": y[0,:,:y_lengths[0]]})
+
+    utils.summarize(
+      writer=writer_eval,
+      global_step=global_step, 
+      images=image_dict,
+      audios=audio_dict,
+      audio_sampling_rate=hps.data.sampling_rate
+    )
+    generator.train()
+
+                           
+if __name__ == "__main__":
+  main()
